@@ -1,4 +1,4 @@
-package DobgatoysupandillaServelt;
+package Dongatoypandilla;
 
 import java.io.IOException;
 import javax.servlet.ServletException;
@@ -8,16 +8,16 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class kucho
+ * Servlet implementation class KIchito
  */
-@WebServlet("/kucho")
-public class kucho extends HttpServlet {
+@WebServlet("/KIchito")
+public class KIchito extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public kucho() {
+    public KIchito() {
         super();
         // TODO Auto-generated constructor stub
     }
