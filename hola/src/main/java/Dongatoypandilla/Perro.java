@@ -8,16 +8,16 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class KIchito
+ * Servlet implementation class Perro
  */
-@WebServlet("/KIchito")
-public class KIchito extends HttpServlet {
+@WebServlet("/Perro")
+public class Perro extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public KIchito() {
+    public Perro() {
         super();
         // TODO Auto-generated constructor stub
     }
